@@ -1,0 +1,422 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Walden",
+  "author": "Henry David Thoreau",
+  "published": 2022,
+  "publisher": "next-book",
+  "keywords": [
+    "Authors, American",
+    "19th century",
+    "Biography",
+    "Thoreau, Henry David, 1817-1862",
+    "Homes and haunts",
+    "Massachusetts",
+    "Walden Woods",
+    "Solitude",
+    "Social life and customs"
+  ],
+  "languageCode": "en-US",
+  "root": "main",
+  "identifier": "thoreau-walden-2022-5905101",
+  "revision": "5905101",
+  "readingOrder": [
+    "economy.html",
+    "where-i-lived-and-what-i-lived-for.html",
+    "reading.html",
+    "sounds.html",
+    "solitude.html",
+    "visitors.html",
+    "the-bean-field.html",
+    "the-village.html",
+    "the-ponds.html",
+    "baker-farm.html",
+    "higher-laws.html",
+    "brute-neighbors.html",
+    "house-warming.html",
+    "former-inhabitants-and-winter-visitors.html",
+    "winter-animals.html",
+    "the-pond-in-winter.html",
+    "spring.html",
+    "conclusion.html"
+  ],
+  "generatedAt": {
+    "date": "Fri Jul 08 2022 15:29:19 GMT+0200 (Central European Summer Time)",
+    "unix": 1657286959895
+  },
+  "documents": [
+    {
+      "title": "Economy",
+      "file": "economy.html",
+      "words": 25449,
+      "chars": 136988,
+      "ideas": 950,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "where-i-lived-and-what-i-lived-for.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Economy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Where I Lived, and What I Lived For",
+      "file": "where-i-lived-and-what-i-lived-for.html",
+      "words": 6095,
+      "chars": 32342,
+      "ideas": 229,
+      "role": "chapter",
+      "order": 1,
+      "prev": "economy.html",
+      "next": "reading.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Where I Lived, and What I Lived For",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Reading",
+      "file": "reading.html",
+      "words": 3759,
+      "chars": 20866,
+      "ideas": 129,
+      "role": "chapter",
+      "order": 2,
+      "prev": "where-i-lived-and-what-i-lived-for.html",
+      "next": "sounds.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Reading",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sounds",
+      "file": "sounds.html",
+      "words": 5722,
+      "chars": 31414,
+      "ideas": 204,
+      "role": "chapter",
+      "order": 3,
+      "prev": "reading.html",
+      "next": "solitude.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sounds",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Solitude",
+      "file": "solitude.html",
+      "words": 3440,
+      "chars": 18229,
+      "ideas": 130,
+      "role": "chapter",
+      "order": 4,
+      "prev": "sounds.html",
+      "next": "visitors.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Solitude",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Visitors",
+      "file": "visitors.html",
+      "words": 4767,
+      "chars": 25542,
+      "ideas": 198,
+      "role": "chapter",
+      "order": 5,
+      "prev": "solitude.html",
+      "next": "the-bean-field.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Visitors",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "The Bean-Field",
+      "file": "the-bean-field.html",
+      "words": 3790,
+      "chars": 20610,
+      "ideas": 127,
+      "role": "chapter",
+      "order": 6,
+      "prev": "visitors.html",
+      "next": "the-village.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "The Bean-Field",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "The Village",
+      "file": "the-village.html",
+      "words": 2024,
+      "chars": 10791,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 7,
+      "prev": "the-bean-field.html",
+      "next": "the-ponds.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "The Village",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "The Ponds",
+      "file": "the-ponds.html",
+      "words": 9180,
+      "chars": 49143,
+      "ideas": 299,
+      "role": "chapter",
+      "order": 8,
+      "prev": "the-village.html",
+      "next": "baker-farm.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "The Ponds",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Baker Farm",
+      "file": "baker-farm.html",
+      "words": 2613,
+      "chars": 13848,
+      "ideas": 113,
+      "role": "chapter",
+      "order": 9,
+      "prev": "the-ponds.html",
+      "next": "higher-laws.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Baker Farm",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Higher Laws",
+      "file": "higher-laws.html",
+      "words": 4217,
+      "chars": 22755,
+      "ideas": 200,
+      "role": "chapter",
+      "order": 10,
+      "prev": "baker-farm.html",
+      "next": "brute-neighbors.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Higher Laws",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Brute Neighbors",
+      "file": "brute-neighbors.html",
+      "words": 4797,
+      "chars": 25463,
+      "ideas": 187,
+      "role": "chapter",
+      "order": 11,
+      "prev": "higher-laws.html",
+      "next": "house-warming.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Brute Neighbors",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "House-Warming",
+      "file": "house-warming.html",
+      "words": 5793,
+      "chars": 30632,
+      "ideas": 218,
+      "role": "chapter",
+      "order": 12,
+      "prev": "brute-neighbors.html",
+      "next": "former-inhabitants-and-winter-visitors.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "House-Warming",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Former Inhabitants and Winter Visitors",
+      "file": "former-inhabitants-and-winter-visitors.html",
+      "words": 4678,
+      "chars": 25777,
+      "ideas": 157,
+      "role": "chapter",
+      "order": 13,
+      "prev": "house-warming.html",
+      "next": "winter-animals.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Former Inhabitants and Winter Visitors",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Winter Animals",
+      "file": "winter-animals.html",
+      "words": 3636,
+      "chars": 19573,
+      "ideas": 98,
+      "role": "chapter",
+      "order": 14,
+      "prev": "former-inhabitants-and-winter-visitors.html",
+      "next": "the-pond-in-winter.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Winter Animals",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "The Pond in Winter",
+      "file": "the-pond-in-winter.html",
+      "words": 5203,
+      "chars": 28047,
+      "ideas": 159,
+      "role": "chapter",
+      "order": 15,
+      "prev": "winter-animals.html",
+      "next": "spring.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "The Pond in Winter",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Spring",
+      "file": "spring.html",
+      "words": 6671,
+      "chars": 36161,
+      "ideas": 259,
+      "role": "chapter",
+      "order": 16,
+      "prev": "the-pond-in-winter.html",
+      "next": "conclusion.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Spring",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "file": "conclusion.html",
+      "words": 4643,
+      "chars": 24897,
+      "ideas": 233,
+      "role": "chapter",
+      "order": 17,
+      "prev": "spring.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Conclusion",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 107271,
+      "chars": 577914,
+      "ideas": 4000
+    },
+    "chapters": {
+      "words": 106477,
+      "chars": 573078,
+      "ideas": 3950
+    }
+  }
+}
