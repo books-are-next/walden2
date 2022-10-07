@@ -1,8 +1,8 @@
 @use "./../../node_modules/@next-book/interface/src/scss/conf";
 
 #title-wrapper {
-  --title-size: 14vh;
-  --title-line-height: 14vh;
+  --title-size: 12vh;
+  --title-line-height: 12vh;
 
   @media (max-aspect-ratio: 1/1) {
     --title-size: 12vw;
@@ -20,7 +20,6 @@
   font-family: SpaceGrotesk;
 
   display: flex;
-  justify-content: center;
   align-items: center;
 
   overflow: hidden;
@@ -55,13 +54,15 @@
     font-weight: normal;
     color: white;
     margin: 0;
-    padding: 0;
+    text-align: center;
 
     display: block;
-    width: 75vw;
     max-width: 140vh;
-    margin: auto;
-    padding: 0 -0.7em 0 0;
+    margin: 0 4vw;
+
+    @media (min-aspect-ratio: 1/1) {
+      width: calc(80% - 8vw);
+    }
 
     h2.author {
       font-family: LiterataVar;
@@ -85,7 +86,6 @@
       font-weight: 500;
       font-variation-settings: "wght" 515;
       font-family: SpaceGrotesk;
-      text-indent: -0.7em;
 
       margin: 0;
 
